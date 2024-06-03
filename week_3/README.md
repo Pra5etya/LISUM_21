@@ -1,0 +1,2 @@
+# Data Project
+Second week focuses on data projects about cab investment which focuses on data visualization (basic analysis and problem statements) as well as creating reports containing insights that can be provided
